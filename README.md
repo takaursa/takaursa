@@ -1,6 +1,6 @@
 <h1 align="center">Fancy seeing you here!</h1>
 
-[![Typing SVG](https://typing-svg-generator.herokuapp.com?font=futura+bold&color=%23FF752A&size=30&center=true&vCenter=true&width=700&height=70&lines=Dragon+Master;Blockchain+Software+Developer;Full+Stack+Web+Developer;Talent+But+Humble)](https://git.io/typing-svg)
+[![Typing SVG](https://typing-svg-generator.herokuapp.com?font=futura+bold&color=%23FF752A&size=30&center=true&vCenter=true&width=1920&height=70&lines=Dragon+Master;Blockchain+Software+Developer;Full+Stack+Web+Developer;Talent+But+Humble)](https://git.io/typing-svg)
 
 <h1 align="center">👍 Summary</h1>
 
