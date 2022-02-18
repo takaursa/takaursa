@@ -101,3 +101,61 @@
     	<img src="./assets/defi/xtoken.png" width="25%"/>
 		</a>
 </p>
+
+<h2 align="center">DEX</h2>
+
+<p align="center">
+    <a href="https://app.wault.finance/">
+			<img src="./assets/dex/wault.png" width="25%"/>
+		</a>
+		&nbsp;&nbsp;&nbsp;
+    <a href="https://zoomswap.io/">
+    	<img src="./assets/dex/zoomswap.png" width="25%"/>
+		</a>
+		&nbsp;&nbsp;&nbsp;
+		<a href="https://app.shieldex.io/">
+    	<img src="./assets/dex/shieldex.png" width="25%"/>
+		</a>
+</p>
+
+<h2 align="center">NFT</h2>
+
+<p align="center">
+    <a href="https://www.cyberkongz.com/">
+			<img src="./assets/nft/kongz.png" width="25%"/>
+		</a>
+		&nbsp;&nbsp;&nbsp;
+    <a href="https://team3d.io/">
+    	<img src="./assets/nft/team3d.jpg" width="25%"/>
+		</a>
+		&nbsp;&nbsp;&nbsp;
+		<a href="https://app-v2.revomon.io/">
+    	<img src="./assets/nft/revomon.png" width="25%"/>
+		</a>
+</p>
+
+<p align="center">
+    <a href="https://www.coolcatsnft.com/">
+			<img src="./assets/nft/coolcat.png" width="25%"/>
+		</a>
+		&nbsp;&nbsp;&nbsp;
+    <a href="https://dontbuymeme.com/">
+    	<img src="./assets/nft/meme.png" width="25%"/>
+		</a>
+</p>
+
+<h2 align="center">P2E</h2>
+
+<p align="center">
+    <a href="https://nftchampions.cc/">
+			<img src="./assets/p2e/champion.jpg" width="25%"/>
+		</a>
+		&nbsp;&nbsp;&nbsp;
+    <a href="https://fantasyworld.game/">
+    	<img src="./assets/p2e/fantasy.png" width="25%"/>
+		</a>
+		&nbsp;&nbsp;&nbsp;
+		<a href="https://griffinart.finance/">
+    	<img src="./assets/p2e/griffin.png" width="25%"/>
+		</a>
+</p>
