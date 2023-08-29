@@ -1,4 +1,5 @@
 - Passionate, talent and humble
+- Deep experience in web development
 - Strong knowledge in blockchain technologies
 - Constantly learning new concepts and technologies
 - Always striving to make process more efficient
